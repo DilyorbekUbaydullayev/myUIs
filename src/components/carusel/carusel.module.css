@@ -1,0 +1,55 @@
+:root{
+    
+        --swiper-pagination-color:var(--swiper-theme-color);
+        --swiper-pagination-left: auto;
+        --swiper-pagination-right: 8px;
+        --swiper-pagination-bottom: 40px;
+        --swiper-pagination-top:auto;
+        --swiper-pagination-fraction-color: inherit;
+        --swiper-pagination-progressbar-bg-color: rgba(0, 0, 0, 0.25);
+        --swiper-pagination-progressbar-size: 4px;
+        --swiper-pagination-bullet-size: 12px;
+        --swiper-pagination-bullet-width: 12px;
+        --swiper-pagination-bullet-height: 12px;
+        --swiper-pagination-bullet-inactive-color: #000;
+        --swiper-pagination-bullet-inactive-opacity: 0.2;
+        --swiper-pagination-bullet-opacity: 1;
+        --swiper-pagination-bullet-horizontal-gap:4px;
+        --swiper-pagination-bullet-vertical-gap: 6px;
+
+        --swiper-scrollbar-border-radius: 10px;
+        --swiper-scrollbar-top: auto;
+        --swiper-scrollbar-bottom: 4px;
+        --swiper-scrollbar-left: auto;
+        --swiper-scrollbar-right: 4px;
+        --swiper-scrollbar-sides-offset: 100%;
+        --swiper-scrollbar-bg-color: rgba(139, 38, 38, 0.1);
+        --swiper-scrollbar-drag-bg-color: rgba(119, 21, 21, 0.5);
+        --swiper-scrollbar-size: 4px;
+        --swiper-navigation-size: 44px;
+        --swiper-navigation-top-offset: 500%;
+        --swiper-navigation-sides-offset: 10px;
+        --swiper-navigation-color: var(--swiper-theme-color);
+      
+      
+} 
+button{
+        border-color: #fff!important;
+        color: #fff!important;
+        padding: 0px 6px 4px 6px!important;
+        font-size: 16px!important;
+        font-weight: bold!important;
+        margin-top: 25px;
+}
+button:hover{
+        border-color: #fff!important;
+        background-color: #ffffff6f!important;
+        color: #fff!important;
+        padding: 0px 6px 4px 6px!important;
+        font-size: 16px!important;
+        font-weight: bold!important;
+        margin-top: 25px;  
+}
+  
+
+  

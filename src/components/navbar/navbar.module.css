@@ -1,0 +1,22 @@
+.logo{
+    margin: -20px!important;
+    padding: 0;
+    margin-left: -12px!important;
+}
+.nav_title:hover{
+    color:#4883FF!important ;
+    }
+    #collapsible_nav_dropdown:hover{
+       color: #4883FF!important;
+    }
+    .nav_title{
+     
+        font-size: 16px;
+        padding: 30px 25px 10px 25px!important;
+        
+    }
+    #collapsible_nav_dropdown{
+        
+        padding-top: 0!important;
+        padding-bottom: 20px;
+    }

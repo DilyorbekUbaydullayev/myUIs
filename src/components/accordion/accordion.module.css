@@ -1,0 +1,29 @@
+.button{
+    border: none;
+    padding: 10px!important;
+   margin-top: 15px;
+   margin-bottom: 12px;
+   border-radius: 50%;
+    
+}
+.button:hover{
+    padding: 10px!important;
+    background: #4883FF!important; /* Green */
+    color: #4883FF!important;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    border-radius: 5
+}
+.title{
+    padding: 0px !important;
+    margin-top: 10px!important;
+    margin-bottom: -35px!important;
+}
+.card{
+border-radius:  0;
+background: white!important;
+}
+.header{
+    background: white!important; 
+}
+

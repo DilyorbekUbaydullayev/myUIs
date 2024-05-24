@@ -1,0 +1,26 @@
+.mybutton{
+    border-radius: 0;
+    background-color: #4883FF!important;
+    border: 2px solid #4883FF!important;
+    padding: 10px 20px!important;
+    transition: all 0.5s;
+    margin: 0!important;
+    font-weight: 400!important;
+}
+
+.mybutton:hover {
+    background: none!important; /* Green */
+    color: #4883FF!important;
+    border: 2px solid #4883FF!important;
+    padding: 10px 20px!important;
+    transition: all 0.5s;
+    margin: 0!important;
+    font-weight: 400!important;
+ 
+}
+.mybutton:active{
+    background-color: #fdfdfd /* Green */!important;
+    color: #4883FF!important;
+    border: 2px solid #4883FF!important;
+    font-weight: 400!important;
+}
