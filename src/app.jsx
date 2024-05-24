@@ -5,8 +5,6 @@ import About from "./pages/about/about";
 import Blog from "./pages/blog/blog";
 import Contact from "./pages/contact/contact";
 import Footer from "./components/footer/footer";
-
-
 function App() {
   return (
     <div className="App">
