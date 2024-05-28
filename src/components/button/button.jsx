@@ -1,12 +1,13 @@
-import Button from 'react-bootstrap/Button';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import stl from './button.module.css'
-export default ({styled,name})=> {
+import React from 'react'
+import { Button } from 'react-bootstrap';
+import stl from './button.module.css';
+
+const button = ({name,bg}) => {
   return (
-    <>
-      <Button variant="primary" className={stl.mybutton} >{name}</Button>
-     
-    </>
-  );
+    <div>
+      <Button className={stl.btn} style={{background:bg==1?'#4232C2':'none'}}>{name}</Button>
+    </div>
+  )
 }
 
+export default button

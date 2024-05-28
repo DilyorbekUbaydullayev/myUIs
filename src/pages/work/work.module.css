@@ -1,0 +1,29 @@
+
+/* work banner */
+.work{
+    background-image: url('../../assets/banner-bg-02.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 480px;
+    width: 100%;
+}
+.title{
+    text-align: center;
+    color: #fff;
+    padding-top: 100px;
+}
+.line{
+    width: 150px;
+    height: 4.5px;
+    background-color: #6266EA;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.title p{
+    font-weight: 300;
+    font-size: 16.5px;
+    width: 65%;
+    margin: 0 auto;
+}
